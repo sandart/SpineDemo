@@ -28,38 +28,38 @@
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d7u-Nw-d45">
                                 <rect key="frame" x="10" y="459" width="355" height="40"/>
-                                <color key="backgroundColor" red="0.0" green="0.69305700063705444" blue="0.59607446193695068" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="a5f-tb-bz1"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Next"/>
                                 <connections>
                                     <segue destination="Z5a-QP-BW6" kind="show" id="22J-kW-GMR"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5dw-AR-jFP">
-                                <rect key="frame" x="10" y="519" width="355" height="40"/>
+                                <rect key="frame" x="10" y="509" width="355" height="40"/>
                                 <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="Ciw-cU-O2G"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="ignore"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vlV-Vf-12b">
-                                <rect key="frame" x="10" y="579" width="355" height="40"/>
+                                <rect key="frame" x="10" y="559" width="355" height="40"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="COI-1p-lmg"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="ignore"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8EC-Yq-DiS">
-                                <rect key="frame" x="10" y="639" width="355" height="40"/>
+                                <rect key="frame" x="10" y="609" width="355" height="40"/>
                                 <color key="backgroundColor" red="1" green="0.38431372549999998" blue="0.38431372549999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="Qrj-bN-bXj"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="ignore"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -72,10 +72,10 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="54m-aF-eHd" secondAttribute="trailing" id="MNF-uh-OoJ"/>
                             <constraint firstItem="vlV-Vf-12b" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="QDo-W5-PUX"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="d7u-Nw-d45" secondAttribute="trailing" constant="10" id="ZSq-1a-wSk"/>
-                            <constraint firstItem="vlV-Vf-12b" firstAttribute="top" secondItem="5dw-AR-jFP" secondAttribute="bottom" constant="20" id="cOc-A3-IU1"/>
+                            <constraint firstItem="vlV-Vf-12b" firstAttribute="top" secondItem="5dw-AR-jFP" secondAttribute="bottom" constant="10" id="cOc-A3-IU1"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="vlV-Vf-12b" secondAttribute="trailing" constant="10" id="fXA-i7-hPZ"/>
-                            <constraint firstItem="5dw-AR-jFP" firstAttribute="top" secondItem="d7u-Nw-d45" secondAttribute="bottom" constant="20" id="fq1-2l-dv6"/>
-                            <constraint firstItem="8EC-Yq-DiS" firstAttribute="top" secondItem="vlV-Vf-12b" secondAttribute="bottom" constant="20" id="gVJ-EB-dX7"/>
+                            <constraint firstItem="5dw-AR-jFP" firstAttribute="top" secondItem="d7u-Nw-d45" secondAttribute="bottom" constant="10" id="fq1-2l-dv6"/>
+                            <constraint firstItem="8EC-Yq-DiS" firstAttribute="top" secondItem="vlV-Vf-12b" secondAttribute="bottom" constant="10" id="gVJ-EB-dX7"/>
                             <constraint firstItem="d7u-Nw-d45" firstAttribute="top" secondItem="54m-aF-eHd" secondAttribute="bottom" constant="20" id="laD-qv-kst"/>
                             <constraint firstItem="d7u-Nw-d45" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="nDQ-Nb-DPD"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="5dw-AR-jFP" secondAttribute="trailing" constant="10" id="qnm-b0-LrW"/>
