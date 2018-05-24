@@ -1,0 +1,117 @@
+
+ershu_growth.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右耳@2x
+  rotate: true
+  xy: 2, 2
+  size: 156, 172
+  orig: 156, 172
+  offset: 0, 0
+  index: -1
+嘴巴@2x
+  rotate: false
+  xy: 375, 283
+  size: 86, 25
+  orig: 87, 26
+  offset: 0, 0
+  index: -1
+尾巴@2x
+  rotate: false
+  xy: 2, 160
+  size: 197, 148
+  orig: 197, 148
+  offset: 0, 0
+  index: -1
+左耳@2x
+  rotate: true
+  xy: 201, 152
+  size: 156, 172
+  orig: 156, 172
+  offset: 0, 0
+  index: -1
+眼睛@2x
+  rotate: false
+  xy: 717, 299
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+脚@2x
+  rotate: true
+  xy: 782, 595
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+花纹1@2x
+  rotate: true
+  xy: 464, 314
+  size: 52, 152
+  orig: 686, 743
+  offset: 317, 364
+  index: -1
+花纹2@2x
+  rotate: true
+  xy: 717, 369
+  size: 638, 63
+  orig: 638, 63
+  offset: 0, 0
+  index: -1
+闪光@2x
+  rotate: false
+  xy: 2, 368
+  size: 622, 639
+  orig: 622, 639
+  offset: 0, 0
+  index: -1
+阴影1@2x
+  rotate: false
+  xy: 2, 310
+  size: 460, 56
+  orig: 460, 56
+  offset: 0, 0
+  index: -1
+阴影2@2x
+  rotate: true
+  xy: 626, 269
+  size: 738, 89
+  orig: 738, 89
+  offset: 0, 0
+  index: -1
+飞翼@2x
+  rotate: false
+  xy: 782, 728
+  size: 108, 279
+  orig: 108, 279
+  offset: 0, 0
+  index: -1
+鼻子@2x
+  rotate: false
+  xy: 782, 569
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+鼻阴影@2x
+  rotate: false
+  xy: 892, 986
+  size: 110, 21
+  orig: 110, 21
+  offset: 0, 0
+  index: -1
+
+ershu_growth2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+身体@2x
+  rotate: false
+  xy: 2, 172
+  size: 686, 516
+  orig: 686, 516
+  offset: 0, 0
+  index: -1

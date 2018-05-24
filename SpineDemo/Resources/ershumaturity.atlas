@@ -1,0 +1,202 @@
+
+ershumaturity.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手@2x
+  rotate: true
+  xy: 497, 90
+  size: 130, 101
+  orig: 130, 101
+  offset: 0, 0
+  index: -1
+右耳@2x
+  rotate: false
+  xy: 476, 683
+  size: 276, 339
+  orig: 276, 339
+  offset: 0, 0
+  index: -1
+嘴巴@2x
+  rotate: true
+  xy: 600, 93
+  size: 73, 21
+  orig: 73, 22
+  offset: 0, 1
+  index: -1
+图层1
+  rotate: false
+  xy: 2, 6
+  size: 328, 56
+  orig: 400, 130
+  offset: 40, 26
+  index: -1
+图层10
+  rotate: false
+  xy: 525, 370
+  size: 109, 68
+  orig: 400, 130
+  offset: 138, 24
+  index: -1
+图层11
+  rotate: true
+  xy: 591, 478
+  size: 203, 65
+  orig: 400, 130
+  offset: 98, 25
+  index: -1
+图层2
+  rotate: true
+  xy: 525, 440
+  size: 241, 64
+  orig: 400, 130
+  offset: 81, 25
+  index: -1
+图层3
+  rotate: false
+  xy: 600, 168
+  size: 62, 68
+  orig: 400, 130
+  offset: 178, 24
+  index: -1
+图层4
+  rotate: true
+  xy: 343, 58
+  size: 282, 63
+  orig: 400, 130
+  offset: 55, 25
+  index: -1
+图层5
+  rotate: true
+  xy: 952, 455
+  size: 315, 53
+  orig: 400, 130
+  offset: 45, 27
+  index: -1
+图层6
+  rotate: true
+  xy: 658, 503
+  size: 178, 50
+  orig: 400, 130
+  offset: 132, 29
+  index: -1
+图层7
+  rotate: true
+  xy: 497, 222
+  size: 143, 51
+  orig: 400, 130
+  offset: 112, 29
+  index: -1
+图层8
+  rotate: true
+  xy: 408, 29
+  size: 311, 52
+  orig: 400, 130
+  offset: 39, 28
+  index: -1
+图层9
+  rotate: true
+  xy: 461, 367
+  size: 306, 62
+  orig: 400, 130
+  offset: 51, 25
+  index: -1
+尾巴@2x
+  rotate: false
+  xy: 462, 97
+  size: 33, 268
+  orig: 33, 268
+  offset: 0, 0
+  index: -1
+左手@2x
+  rotate: true
+  xy: 550, 238
+  size: 130, 101
+  orig: 130, 101
+  offset: 0, 0
+  index: -1
+左耳@2x
+  rotate: true
+  xy: 2, 64
+  size: 276, 339
+  orig: 276, 339
+  offset: 0, 0
+  index: -1
+眼睛@2x
+  rotate: false
+  xy: 710, 624
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+脚@2x
+  rotate: false
+  xy: 462, 9
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+脸@2x
+  rotate: false
+  xy: 2, 675
+  size: 472, 347
+  orig: 472, 347
+  offset: 0, 0
+  index: -1
+花纹1@2x
+  rotate: true
+  xy: 332, 2
+  size: 25, 120
+  orig: 25, 120
+  offset: 0, 0
+  index: -1
+花纹2@2x
+  rotate: true
+  xy: 865, 352
+  size: 418, 39
+  orig: 418, 39
+  offset: 0, 0
+  index: -1
+身体@2x
+  rotate: false
+  xy: 2, 342
+  size: 457, 331
+  orig: 457, 331
+  offset: 0, 0
+  index: -1
+身体阴影@2x
+  rotate: true
+  xy: 865, 772
+  size: 250, 157
+  orig: 250, 157
+  offset: 0, 0
+  index: -1
+阴影1@2x
+  rotate: true
+  xy: 906, 410
+  size: 360, 44
+  orig: 360, 44
+  offset: 0, 0
+  index: -1
+飞翼@2x
+  rotate: true
+  xy: 754, 368
+  size: 654, 109
+  orig: 654, 109
+  offset: 0, 0
+  index: -1
+鼻子@2x
+  rotate: false
+  xy: 906, 388
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+鼻阴影@2x
+  rotate: true
+  xy: 1007, 683
+  size: 87, 9
+  orig: 87, 9
+  offset: 0, 0
+  index: -1
