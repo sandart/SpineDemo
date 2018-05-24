@@ -10,4 +10,4 @@
 
 
 You will get a compile error if you compile the project.
-you just need to delete “<NSCopying>”, then it's ok.
+you just need to delete \'NSCopying>\', then it's ok.
